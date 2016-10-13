@@ -1,0 +1,14 @@
+.sidebar{
+  float: left;
+  width: 170px;
+  background-color: lightgrey;
+  border-right: solid lightblue;
+}
+
+#globe {
+  width: 170px;
+}
+
+.panel-body {
+  background-color: #daebcc;
+}
